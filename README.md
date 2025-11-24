@@ -49,11 +49,3 @@ Contato
 -------
 Autor: sami-403  
 Descrição automática: `atividade-mardown-e-github-pages-sami-403 created by GitHub Classroom`
-
-Observações finais
-------------------
-Se quiser, posso:
-- Gerar um texto de apresentação mais detalhado para a página HTML;
-- Adicionar badges (build, license, pages);
-- Criar um arquivo CONTRIBUTING.md ou LICENSE.
-Diga qual opção prefere.
